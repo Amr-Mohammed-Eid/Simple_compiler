@@ -5,8 +5,6 @@ This repository contains a course assignment for a Theory of Computation class.
 ## Files
 
 - `simple_compiler.py` - main Python implementation for the assignment.
-- `s.ipynb` - notebook file included in the assignment.
-- `Simple_compiler.txt` - supplementary text resource.
 
 ## Description
 
